@@ -1,0 +1,10 @@
+D:\Student_Contact_Final\DTOCls\bin\Debug\DTOCls.dll
+D:\Student_Contact_Final\DTOCls\bin\Debug\DTOCls.pdb
+D:\Student_Contact_Final\DTOCls\obj\Debug\DTOCls.csprojResolveAssemblyReference.cache
+D:\Student_Contact_Final\DTOCls\obj\Debug\DTOCls.dll
+D:\Student_Contact_Final\DTOCls\obj\Debug\DTOCls.pdb
+D:\Student_Contact_Final - Copy\DTOCls\bin\Debug\DTOCls.dll
+D:\Student_Contact_Final - Copy\DTOCls\bin\Debug\DTOCls.pdb
+D:\Student_Contact_Final - Copy\DTOCls\obj\Debug\DTOCls.csprojResolveAssemblyReference.cache
+D:\Student_Contact_Final - Copy\DTOCls\obj\Debug\DTOCls.dll
+D:\Student_Contact_Final - Copy\DTOCls\obj\Debug\DTOCls.pdb

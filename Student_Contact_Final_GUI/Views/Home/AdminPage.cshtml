@@ -1,0 +1,43 @@
+﻿@model DTOCls.DTOAdminAccount
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AdminPage</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/wwwroot/css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="~/wwwroot/css/dropdownnav.css">
+
+    <style>
+        .imgAvatar {
+            border-radius: 50%;
+        }
+        .imgAvatar:hover {
+            border: 2px solid red;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="#home">Information</a>
+        <a href="#news">Account Management</a>
+        <div class="dropdown">
+            <img class="imgAvatar" src="~/wwwroot/images/bg-01.jpg" alt="Girl in a jacket" width="30" height="30" style="vertical-align:middle;margin:0px 2px">
+            <button class="dropbtn">
+                @Model.Name
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="#"><i class="fa fa-user-circle"></i>&nbsp;My Account</a>
+                <a href="#"><i class="fa fa-lock"></i>&nbsp;Log Out</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

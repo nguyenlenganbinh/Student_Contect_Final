@@ -1,0 +1,78 @@
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\csc.exe
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\vbc.exe
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\VBCSCompiler.exe
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Student_Contact_Final_GUI.dll.config
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Student_Contact_Final_GUI.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Student_Contact_Final_GUI.pdb
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\DTOCls.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Newtonsoft.Json.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Net.Http.Formatting.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Helpers.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Mvc.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Razor.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Webpages.Deployment.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Webpages.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Webpages.Razor.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\DTOCls.pdb
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\Newtonsoft.Json.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Net.Http.Formatting.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Razor.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Webpages.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Webpages.Deployment.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Webpages.Razor.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Helpers.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\bin\System.Web.Mvc.xml
+D:\Student_Contact_Final\Student_Contact_Final_GUI\obj\Debug\Student_Contact_Final_GUI.csprojResolveAssemblyReference.cache
+D:\Student_Contact_Final\Student_Contact_Final_GUI\obj\Debug\Student_Contact_Final_GUI.dll
+D:\Student_Contact_Final\Student_Contact_Final_GUI\obj\Debug\Student_Contact_Final_GUI.pdb
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\csc.exe
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\vbc.exe
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\VBCSCompiler.exe
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Student_Contact_Final_GUI.dll.config
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Student_Contact_Final_GUI.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Student_Contact_Final_GUI.pdb
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\DTOCls.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Newtonsoft.Json.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Net.Http.Formatting.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Helpers.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Mvc.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Razor.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Webpages.Deployment.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Webpages.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Webpages.Razor.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\DTOCls.pdb
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\Newtonsoft.Json.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Net.Http.Formatting.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Razor.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Webpages.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Webpages.Deployment.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Webpages.Razor.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Helpers.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\bin\System.Web.Mvc.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\obj\Debug\Student_Contact_Final_GUI.csprojResolveAssemblyReference.cache
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\obj\Debug\Student_Contact_Final_GUI.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final_GUI\obj\Debug\Student_Contact_Final_GUI.pdb

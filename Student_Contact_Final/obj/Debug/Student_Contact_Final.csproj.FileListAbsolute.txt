@@ -1,0 +1,70 @@
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\csc.exe
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\System.Collections.Immutable.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\System.Reflection.Metadata.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\vbc.exe
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\VBCSCompiler.exe
+D:\Student_Contact_Final\Student_Contact_Final\bin\roslyn\VBCSCompiler.exe.config
+D:\Student_Contact_Final\Student_Contact_Final\bin\Student_Contact_Final.dll.config
+D:\Student_Contact_Final\Student_Contact_Final\bin\Student_Contact_Final.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\Student_Contact_Final.pdb
+D:\Student_Contact_Final\Student_Contact_Final\bin\EntityFramework.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\EntityFramework.SqlServer.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\Newtonsoft.Json.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\System.Net.Http.Formatting.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\System.Web.Http.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\System.Web.Http.WebHost.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\EntityFramework.xml
+D:\Student_Contact_Final\Student_Contact_Final\bin\EntityFramework.SqlServer.xml
+D:\Student_Contact_Final\Student_Contact_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Student_Contact_Final\Student_Contact_Final\bin\Newtonsoft.Json.xml
+D:\Student_Contact_Final\Student_Contact_Final\bin\System.Net.Http.Formatting.xml
+D:\Student_Contact_Final\Student_Contact_Final\bin\System.Web.Http.xml
+D:\Student_Contact_Final\Student_Contact_Final\bin\System.Web.Http.WebHost.xml
+D:\Student_Contact_Final\Student_Contact_Final\obj\Debug\Student_Contact_Final.csprojResolveAssemblyReference.cache
+D:\Student_Contact_Final\Student_Contact_Final\obj\Debug\Student_Contact_Final.dll
+D:\Student_Contact_Final\Student_Contact_Final\obj\Debug\Student_Contact_Final.pdb
+D:\Student_Contact_Final\Student_Contact_Final\bin\DTOCls.dll
+D:\Student_Contact_Final\Student_Contact_Final\bin\DTOCls.pdb
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\csc.exe
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\System.Collections.Immutable.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\System.Reflection.Metadata.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\vbc.exe
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\VBCSCompiler.exe
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\roslyn\VBCSCompiler.exe.config
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\Student_Contact_Final.dll.config
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\Student_Contact_Final.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\Student_Contact_Final.pdb
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\DTOCls.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\EntityFramework.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\EntityFramework.SqlServer.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\Newtonsoft.Json.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\System.Net.Http.Formatting.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\System.Web.Http.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\System.Web.Http.WebHost.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\DTOCls.pdb
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\EntityFramework.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\EntityFramework.SqlServer.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\Newtonsoft.Json.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\System.Net.Http.Formatting.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\System.Web.Http.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final\bin\System.Web.Http.WebHost.xml
+D:\Student_Contact_Final - Copy\Student_Contact_Final\obj\Debug\Student_Contact_Final.csprojResolveAssemblyReference.cache
+D:\Student_Contact_Final - Copy\Student_Contact_Final\obj\Debug\Student_Contact_Final.dll
+D:\Student_Contact_Final - Copy\Student_Contact_Final\obj\Debug\Student_Contact_Final.pdb
+D:\Student_Contact_Final - Copy\Student_Contact_Final\obj\Debug\Student_Contact_Final.Migrations.v1.resources
+D:\Student_Contact_Final - Copy\Student_Contact_Final\obj\Debug\Student_Contact_Final.csproj.GenerateResource.Cache
